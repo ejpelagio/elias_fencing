@@ -1,0 +1,25 @@
+.jumbotron{
+    height: 25.5vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/images/home2.jpg');
+    background-size: cover;
+    
+}
+
+.buttonCall{
+    display: flex;
+    background-color:rgb(182, 61, 50);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2rem;
+}
+
+.imageTextMessage{
+    display: flex;
+    justify-content: flex-end;
+
+}
