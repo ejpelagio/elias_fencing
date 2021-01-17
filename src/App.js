@@ -1,21 +1,21 @@
 import "./AppReset.css";
+// importing components
+import Footer from "./components/footer/Footer";
+import Home from "./components/home/Home";
+import Mission from "./components/home/Mission";
+import CarouselCom from "./components/carousel/Carousel";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Home />
+      <Mission />
+      <CarouselCom />
+      <br />
+      <br />
+      <br />
+
+      <Footer />
     </div>
   );
 }
