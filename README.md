@@ -16,7 +16,7 @@ Front-end Website for local start up fencing company in Austin Texas using React
 [Live Web Site](http://www.eliasfencing.com/)
 
 ![ExampleOne](/src/assets/images/equalized-eliasFencing.png)
-![ExampleTwo](/src/assets/images/equalized-eliasFencingCarousel.png)
+![ExampleTwo](/src/assets/images/equalized-eliasFencingcarousel.png)
 
 Color palette
 
