@@ -10,7 +10,7 @@ import styled from "styled-components";
 
 function App() {
   return (
-    // main wrapper
+    // main App wrapper
     <AppWrapper>
       <Home />
       <Mission />
@@ -24,6 +24,7 @@ function App() {
 }
 
 export default App;
+
 // Styling using styled components
 const AppWrapper = styled.div`
   display: flex;
