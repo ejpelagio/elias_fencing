@@ -11,7 +11,7 @@ const CarouselCom = () => {
     // creating carousel wrapper
     <CarouselWrapper>
       {/* creating a bootsrap carousel, mapping throughout the images for the carousel */}
-      <Carousel interval="5000">
+      <Carousel interval={5000}>
         {CarouselData.fences.map((fence, index) => (
           <Carousel.Item key={index}>
             <StyledImage src={fence.image} alt={fence.alt} />
