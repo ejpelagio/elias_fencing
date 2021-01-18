@@ -1,4 +1,24 @@
-# Elias Fencing Comapny
+# Elias Fencing Comapany Services
+
+Front-end Website for local start up fencing company in Austin Texas using React.JS.
+
+- **_Technologies Used for this Project:_**
+
+  - JavaSript
+  - Node.js
+  - React.js
+
+- **_Modules_**
+  - NPM react-router-dom
+  - NPM styled-componets
+  - NPM react-bootstrap
+
+[Live Web Site](http://www.eliasfencing.com/)
+
+![ExampleOne](/src/assets/images/equalized-eliasFencing.png)
+![ExampleOne](/src/assets/images/equalized-eliasFencingCarousel.png)
+
+Color palette
 
 - color #1
 
